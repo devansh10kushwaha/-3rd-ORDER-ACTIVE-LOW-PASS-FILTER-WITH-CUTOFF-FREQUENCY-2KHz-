@@ -46,3 +46,5 @@ Lalit Kumar Sharma
 Department of Electrical Engineering,
 Faculty of Engineering and Technology,
 Jamia Millia Islamia, New Delhi
+
+![image alt](https://github.com/devansh10kushwaha/-3rd-ORDER-ACTIVE-LOW-PASS-FILTER-WITH-CUTOFF-FREQUENCY-2KHz-/blob/00ec77f0fa424bf7cb8cdb9a0f597ab76c92450a/lowpassfilter.jpeg)
