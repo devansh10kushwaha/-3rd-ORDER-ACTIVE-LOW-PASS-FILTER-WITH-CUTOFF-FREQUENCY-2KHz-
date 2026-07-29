@@ -49,3 +49,4 @@ Jamia Millia Islamia, New Delhi
 
 ![image alt](https://github.com/devansh10kushwaha/-3rd-ORDER-ACTIVE-LOW-PASS-FILTER-WITH-CUTOFF-FREQUENCY-2KHz-/blob/00ec77f0fa424bf7cb8cdb9a0f597ab76c92450a/lowpassfilter.jpeg)
 ![image alt](https://github.com/devansh10kushwaha/-3rd-ORDER-ACTIVE-LOW-PASS-FILTER-WITH-CUTOFF-FREQUENCY-2KHz-/blob/f8c0c6c92c1c5f629ae99266a64bb6d71743a04d/circuit%20diagram%20filter.jpeg)
+![image alt](https://github.com/devansh10kushwaha/-3rd-ORDER-ACTIVE-LOW-PASS-FILTER-WITH-CUTOFF-FREQUENCY-2KHz-/blob/aff891d318a37c1094f926827bc6396e17529f65/lowpassfilter2.jpeg)
